@@ -50,10 +50,10 @@ params = {
   request_delay: 1.0, 
   pattern: {
     start_count: 1,
-    end_count: 800, 
+    end_count: 1000, 
     duration: 120
   },
-  duration: 200
+  duration: 120
 }
 
 step_size = (params[:pattern][:end_count] - params[:pattern][:start_count])/params[:pattern][:duration].to_f

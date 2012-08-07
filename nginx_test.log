@@ -1,0 +1,1715 @@
+{"volume":8,"total":0,"response_time":0.0,"pass":0,"errors":0,"codes":{},"duration":1.0023140907287598}
+{"volume":16,"total":8,"response_time":0.001281,"pass":0,"errors":0,"codes":{},"duration":2.018489122390747}
+{"volume":24,"total":24,"response_time":0.001247,"pass":10,"errors":0,"codes":{"200":10},"duration":3.0352330207824707}
+{"volume":32,"total":48,"response_time":0.001247,"pass":31,"errors":0,"codes":{"200":31},"duration":4.055458068847656}
+{"volume":40,"total":80,"response_time":0.001238,"pass":62,"errors":0,"codes":{"200":62},"duration":5.075277090072632}
+{"volume":48,"total":120,"response_time":0.001244,"pass":100,"errors":0,"codes":{"200":100},"duration":6.096634149551392}
+{"volume":56,"total":168,"response_time":0.00124,"pass":148,"errors":0,"codes":{"200":148},"duration":7.117835998535156}
+{"volume":64,"total":224,"response_time":0.001354,"pass":192,"errors":0,"codes":{"200":192},"duration":8.181528091430664}
+{"volume":72,"total":288,"response_time":0.00124,"pass":271,"errors":0,"codes":{"200":271},"duration":9.19002914428711}
+{"volume":80,"total":360,"response_time":0.001246,"pass":339,"errors":0,"codes":{"200":339},"duration":10.20799207687378}
+{"volume":88,"total":440,"response_time":0.001236,"pass":420,"errors":0,"codes":{"200":420},"duration":11.227654933929443}
+{"volume":96,"total":528,"response_time":0.001242,"pass":506,"errors":0,"codes":{"200":506},"duration":12.249151945114136}
+{"volume":104,"total":624,"response_time":0.001242,"pass":600,"errors":0,"codes":{"200":600},"duration":13.272264003753662}
+{"volume":112,"total":728,"response_time":0.001244,"pass":696,"errors":0,"codes":{"200":696},"duration":14.29924201965332}
+{"volume":120,"total":840,"response_time":0.001238,"pass":807,"errors":0,"codes":{"200":807},"duration":15.35361099243164}
+{"volume":128,"total":960,"response_time":0.001232,"pass":928,"errors":0,"codes":{"200":928},"duration":16.382853031158447}
+{"volume":136,"total":1088,"response_time":0.001235,"pass":1063,"errors":0,"codes":{"200":1063},"duration":17.40645718574524}
+{"volume":144,"total":1224,"response_time":0.001236,"pass":1201,"errors":0,"codes":{"200":1201},"duration":18.430734157562256}
+{"volume":152,"total":1368,"response_time":0.001235,"pass":1349,"errors":0,"codes":{"200":1349},"duration":19.4531729221344}
+{"volume":160,"total":1520,"response_time":0.001243,"pass":1502,"errors":0,"codes":{"200":1502},"duration":20.47144389152527}
+{"volume":168,"total":1680,"response_time":0.001236,"pass":1661,"errors":0,"codes":{"200":1661},"duration":21.492963075637817}
+{"volume":176,"total":1848,"response_time":0.001237,"pass":1829,"errors":0,"codes":{"200":1829},"duration":22.513274908065796}
+{"volume":184,"total":2024,"response_time":0.001232,"pass":2003,"errors":0,"codes":{"200":2003},"duration":23.533538103103638}
+{"volume":192,"total":2208,"response_time":0.001228,"pass":2188,"errors":0,"codes":{"200":2188},"duration":24.55402898788452}
+{"volume":200,"total":2400,"response_time":0.001579,"pass":2373,"errors":0,"codes":{"200":2373},"duration":25.586618900299072}
+{"volume":208,"total":2600,"response_time":0.00124,"pass":2581,"errors":0,"codes":{"200":2581},"duration":26.60759401321411}
+{"volume":216,"total":2808,"response_time":0.001231,"pass":2761,"errors":0,"codes":{"200":2761},"duration":27.67106008529663}
+{"volume":224,"total":3024,"response_time":0.001234,"pass":3006,"errors":0,"codes":{"200":3006},"duration":28.6958270072937}
+{"volume":232,"total":3248,"response_time":0.001234,"pass":3231,"errors":0,"codes":{"200":3231},"duration":29.71409797668457}
+{"volume":240,"total":3480,"response_time":0.001242,"pass":3463,"errors":0,"codes":{"200":3463},"duration":30.734416961669922}
+{"volume":248,"total":3720,"response_time":0.001297,"pass":3701,"errors":0,"codes":{"200":3701},"duration":31.75476312637329}
+{"volume":256,"total":3968,"response_time":0.00125,"pass":3943,"errors":0,"codes":{"200":3943},"duration":32.78533887863159}
+{"volume":264,"total":4224,"response_time":0.00124,"pass":4205,"errors":0,"codes":{"200":4205},"duration":33.80591893196106}
+{"volume":272,"total":4488,"response_time":0.001241,"pass":4468,"errors":0,"codes":{"200":4468},"duration":34.82844805717468}
+{"volume":280,"total":4760,"response_time":0.00123,"pass":4672,"errors":0,"codes":{"200":4672},"duration":35.903676986694336}
+{"volume":288,"total":5040,"response_time":0.001308,"pass":5010,"errors":0,"codes":{"200":5010},"duration":36.92850685119629}
+{"volume":296,"total":5328,"response_time":0.00123,"pass":5302,"errors":0,"codes":{"200":5302},"duration":37.99585700035095}
+{"volume":304,"total":5624,"response_time":0.001232,"pass":5603,"errors":0,"codes":{"200":5603},"duration":39.02078318595886}
+{"volume":312,"total":5928,"response_time":0.001234,"pass":5911,"errors":0,"codes":{"200":5911},"duration":40.04089903831482}
+{"volume":320,"total":6240,"response_time":0.001238,"pass":6200,"errors":0,"codes":{"200":6200},"duration":41.08038902282715}
+{"volume":328,"total":6560,"response_time":0.00123,"pass":6537,"errors":0,"codes":{"200":6537},"duration":42.103036880493164}
+{"volume":336,"total":6888,"response_time":0.001233,"pass":6867,"errors":0,"codes":{"200":6867},"duration":43.12453103065491}
+{"volume":344,"total":7224,"response_time":0.001233,"pass":7205,"errors":0,"codes":{"200":7205},"duration":44.14697194099426}
+{"volume":352,"total":7568,"response_time":0.001232,"pass":7551,"errors":0,"codes":{"200":7551},"duration":45.16884207725525}
+{"volume":360,"total":7920,"response_time":0.001251,"pass":7882,"errors":0,"codes":{"200":7882},"duration":46.217066049575806}
+{"volume":368,"total":8280,"response_time":0.001233,"pass":8248,"errors":0,"codes":{"200":8248},"duration":47.24187111854553}
+{"volume":376,"total":8648,"response_time":0.00124,"pass":8621,"errors":0,"codes":{"200":8621},"duration":48.26770615577698}
+{"volume":384,"total":9024,"response_time":0.001238,"pass":9002,"errors":0,"codes":{"200":9002},"duration":49.29446601867676}
+{"volume":392,"total":9408,"response_time":0.001236,"pass":9383,"errors":0,"codes":{"200":9383},"duration":50.32833504676819}
+{"volume":400,"total":9800,"response_time":0.001261,"pass":9787,"errors":0,"codes":{"200":9787},"duration":51.347774028778076}
+{"volume":408,"total":10200,"response_time":0.001235,"pass":10183,"errors":0,"codes":{"200":10183},"duration":52.364052057266235}
+{"volume":416,"total":10608,"response_time":0.001266,"pass":10559,"errors":0,"codes":{"200":10559},"duration":53.45381188392639}
+{"volume":424,"total":11024,"response_time":0.001261,"pass":10915,"errors":0,"codes":{"200":10915},"duration":54.536550998687744}
+{"volume":432,"total":11448,"response_time":0.001251,"pass":11365,"errors":0,"codes":{"200":11365},"duration":55.59817600250244}
+{"volume":440,"total":11880,"response_time":0.001763,"pass":11814,"errors":0,"codes":{"200":11814},"duration":56.72328591346741}
+{"volume":448,"total":12320,"response_time":0.001271,"pass":12216,"errors":0,"codes":{"200":12216},"duration":57.82818794250488}
+{"volume":456,"total":12768,"response_time":0.001262,"pass":12589,"errors":0,"codes":{"200":12589},"duration":58.874030113220215}
+{"volume":464,"total":13224,"response_time":0.001305,"pass":12983,"errors":0,"codes":{"200":12983},"duration":60.01703405380249}
+{"volume":472,"total":13688,"response_time":0.001351,"pass":13497,"errors":0,"codes":{"200":13497},"duration":61.20192503929138}
+{"volume":480,"total":14160,"response_time":0.001241,"pass":14002,"errors":0,"codes":{"200":14002},"duration":62.37950801849365}
+{"volume":488,"total":14640,"response_time":0.001243,"pass":14474,"errors":0,"codes":{"200":14474},"duration":63.544883012771606}
+{"volume":496,"total":15128,"response_time":0.001241,"pass":14882,"errors":0,"codes":{"200":14882},"duration":64.72744703292847}
+{"volume":504,"total":15624,"response_time":0.001288,"pass":15370,"errors":0,"codes":{"200":15370},"duration":65.91639304161072}
+{"volume":512,"total":16128,"response_time":0.001241,"pass":15866,"errors":0,"codes":{"200":15866},"duration":67.09045600891113}
+{"volume":520,"total":16640,"response_time":0.001234,"pass":16376,"errors":0,"codes":{"200":16376},"duration":68.35141611099243}
+{"volume":528,"total":17160,"response_time":0.001249,"pass":16800,"errors":0,"codes":{"200":16800},"duration":69.58662915229797}
+{"volume":536,"total":17688,"response_time":0.001236,"pass":17320,"errors":0,"codes":{"200":17320},"duration":70.85354709625244}
+{"volume":544,"total":18224,"response_time":0.00124,"pass":17848,"errors":0,"codes":{"200":17848},"duration":72.24922704696655}
+{"volume":552,"total":18768,"response_time":0.001299,"pass":18344,"errors":0,"codes":{"200":18344},"duration":73.51017999649048}
+{"volume":560,"total":19320,"response_time":0.00124,"pass":18831,"errors":0,"codes":{"200":18831},"duration":74.82157588005066}
+{"volume":568,"total":19880,"response_time":0.00124,"pass":19383,"errors":0,"codes":{"200":19383},"duration":76.16050004959106}
+{"volume":576,"total":20448,"response_time":0.001241,"pass":19943,"errors":0,"codes":{"200":19943},"duration":77.50353693962097}
+{"volume":584,"total":21024,"response_time":0.001248,"pass":20511,"errors":0,"codes":{"200":20511},"duration":78.89478802680969}
+{"volume":592,"total":21608,"response_time":0.001284,"pass":21087,"errors":0,"codes":{"200":21087},"duration":80.28360915184021}
+{"volume":600,"total":22200,"response_time":0.001242,"pass":21671,"errors":0,"codes":{"200":21671},"duration":81.6839439868927}
+{"volume":608,"total":22800,"response_time":0.001244,"pass":22263,"errors":0,"codes":{"200":22263},"duration":83.10620212554932}
+{"volume":616,"total":23408,"response_time":0.001249,"pass":22863,"errors":0,"codes":{"200":22863},"duration":84.57975101470947}
+{"volume":624,"total":24024,"response_time":0.001312,"pass":23471,"errors":0,"codes":{"200":23471},"duration":86.04373812675476}
+{"volume":632,"total":24648,"response_time":0.001245,"pass":24087,"errors":0,"codes":{"200":24087},"duration":87.6999409198761}
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+{"volume":640,"total":25280,"response_time":0.001241,"pass":24562,"errors":18,"codes":{"200":24562},"duration":89.1188759803772}
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+{"volume":648,"total":25920,"response_time":0.001233,"pass":25106,"errors":126,"codes":{"200":25106},"duration":90.55287289619446}
+{"volume":656,"total":26568,"response_time":0.001243,"pass":25106,"errors":126,"codes":{"200":25106},"duration":151.45632886886597}
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: Errno::ETIMEDOUT
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+errback: 
+Thread ID: 2151955260
+Total: 64.145822
+Sort by: self_time
+
+ %self     total     self     wait    child    calls   name
+  3.22      2.06     2.06     0.00     0.00   411116   String#gsub 
+  3.01      1.93     1.93     0.00     0.00  1143225   Kernel#instance_variable_defined? 
+  2.98      7.84     1.91     0.00     5.94   213976   Addressable::URI#validate 
+  2.91     13.49     1.86     0.00    11.62    53494   <Class::Addressable::URI>#parse 
+  2.69      1.72     1.72     0.00     0.00   989088   Hash#default 
+  2.61      5.34     1.67     0.00     3.67    77114   Hash#each 
+  2.56     64.09     1.64     0.00    62.45        1   <Module::EventMachine>#run_machine 
+  2.21      2.33     1.42     0.00     0.92   557478   String#== 
+  1.96      1.92     1.26     0.00     0.66   400343   Addressable::URI#host 
+  1.81      1.16     1.16     0.00     0.00   468623   Hash#[]= 
+  1.80      2.87     1.15     0.00     1.72   454699   BasicObject#!= 
+  1.71      1.09     1.09     0.00     0.00    26747   <Module::EventMachine>#connect_server 
+  1.66      6.20     1.06     0.00     5.13    53494   Addressable::URI#port= 
+  1.56      1.00     1.00     0.00     0.00   610972   Kernel#respond_to_missing? 
+  1.46      2.93     0.94     0.00     1.99   177408   EventMachine::HttpResponseHeader#[] 
+  1.43      1.41     0.92     0.00     0.49   293355   Addressable::URI#path 
+  1.43     57.00     0.91     0.00    56.09   209070  *Proc#call 
+  1.31      1.89     0.84     0.00     1.06    53494   Addressable::URI#scheme= 
+  1.30      1.30     0.83     0.00     0.47    80241   Addressable::URI#path= 
+  1.26     10.13     0.81     0.00     9.32    52632   EventMachine::Deferrable#set_deferred_status 
+  1.18     13.58     0.76     0.00    12.82    25367   HTTP::Parser#<< 
+  1.18      1.20     0.76     0.00     0.44   304128   Hash#[] 
+  1.18      8.42     0.76     0.00     7.66    25344   EventMachine::HttpClient#parse_response_header 
+  1.14      5.06     0.73     0.00     4.32    26747   <Module::EventMachine>#bind_connect 
+  1.13     11.38     0.72     0.00    10.65    26747   HttpConnectionOptions#initialize 
+  1.13      2.32     0.72     0.00     1.59    25885   EventMachine::HttpClient#build_request 
+  1.13     13.09     0.72     0.00    12.37    26747   HttpClientOptions#initialize 
+  1.11      0.71     0.71     0.00     0.00   356760   String#upcase 
+  1.09      0.70     0.70     0.00     0.00   426228   String#empty? 
+  0.95      0.61     0.61     0.00     0.00    53494   String#scan 
+  0.93      0.93     0.60     0.00     0.33   186367   Addressable::URI#scheme 
+  0.92      0.91     0.59     0.00     0.32    53494   Addressable::URI#host= 
+  0.89      0.99     0.57     0.00     0.42    53494   EventMachine::Deferrable#callback 
+  0.89      5.25     0.57     0.00     4.68    25885   EventMachine::HttpClient#send_request 
+  0.82      0.61     0.53     0.00     0.09   266608   Kernel#respond_to? 
+  0.80      0.51     0.51     0.00     0.00   242037   <Class::BasicObject>#allocate 
+  0.80     26.67     0.51     0.00    26.16   268784  *Class#new 
+  0.78      0.77     0.50     0.00     0.27   158758   Addressable::URI#port 
+  0.78     11.68     0.50     0.00    11.18    26747   HttpClientOptions#set_uri 
+  0.77      0.74     0.49     0.00     0.25   153146   EventMachine::HttpConnection#client 
+  0.75      0.48     0.48     0.00     0.00   288183   String#to_s 
+  0.73      0.47     0.47     0.00     0.00    77976   Array#flatten 
+  0.71      0.92     0.46     0.00     0.46   104402   Array#map 
+  0.71     35.75     0.46     0.00    35.29    26747   Engine#realtime 
+  0.69      0.45     0.45     0.00     0.00   103540   String#% 
+  0.66      1.07     0.42     0.00     0.65    26747   EventMachine::HttpConnection#post_init 
+  0.64      0.50     0.41     0.00     0.09   102999   Array#join 
+  0.63      8.73     0.40     0.00     8.33    53494   Addressable::URI#defer_validation 
+  0.62      9.31     0.40     0.00     8.92    53494   Addressable::URI#initialize 
+  0.62      0.87     0.40     0.00     0.47    27570   <Module::EventMachine>#add_timer 
+  0.59      0.38     0.38     0.00     0.00   160482   String#[] 
+  0.54      0.61     0.35     0.00     0.26    26747   <Module::EventMachine>#klass_from_handler 
+  0.52      0.97     0.34     0.00     0.64    26747   <Module::EventMachine>#event_callback 
+  0.49      0.32     0.32     0.00     0.00   188632   Symbol#== 
+  0.49      0.32     0.32     0.00     0.00   187229   String#to_str 
+  0.47      0.86     0.30     0.00     0.56    25885   EventMachine::HttpEncoding#encode_query 
+  0.46      0.29     0.29     0.00     0.00   178490   Array#first 
+  0.45      0.38     0.29     0.00     0.09    26747   BasicObject#instance_eval 
+  0.45      0.29     0.29     0.00     0.00   157756   Fixnum#to_s 
+  0.43      1.19     0.28     0.00     0.92    77976   Array#each 
+  0.43      1.18     0.28     0.00     0.91    26747   EventMachine::HttpClient#initialize 
+  0.42      0.27     0.27     0.00     0.00   102999   String#split 
+  0.42      1.20     0.27     0.00     0.93    26747   EventMachine::HttpConnection#finalize_request 
+  0.41      0.43     0.26     0.00     0.17   106988   Fixnum#== 
+  0.41      0.51     0.26     0.00     0.25    77655   EventMachine::HttpEncoding#encode_field 
+  0.40      0.46     0.26     0.00     0.20    26747   EventMachine::Deferrable#errback 
+  0.38      0.72     0.25     0.00     0.47    52632   EventMachine::HttpConnection#middleware 
+  0.38      0.24     0.24     0.00     0.00   132873   Kernel#kind_of? 
+  0.37      0.24     0.24     0.00     0.00   132011   Kernel#is_a? 
+  0.37      0.24     0.24     0.00     0.00    53494   String#=~ 
+  0.36      0.47     0.23     0.00     0.24    26747   EventMachine::HttpClient#reset! 
+  0.36      0.41     0.23     0.00     0.18    25344   EventMachine::HttpResponseHeader#content_length 
+  0.35      8.23     0.22     0.00     8.00    25885   EventMachine::HttpClient#connection_completed 
+  0.34      0.43     0.22     0.00     0.21    25885   EventMachine::Connection#send_data 
+  0.34      2.36     0.22     0.00     2.14    26747   EventMachine::HttpClient#unbind 
+  0.33      0.21     0.21     0.00     0.00    80241   Kernel#proc 
+  0.33     11.99     0.21     0.00    11.77    26747   <Class::EventMachine::HttpRequest>#new 
+  0.32      1.35     0.20     0.00     1.15    25885   EventMachine::HttpEncoding#encode_request 
+  0.32      0.20     0.20     0.00     0.00   103540   String#capitalize 
+  0.31      0.56     0.20     0.00     0.36    53577   <Class::Time>#now 
+  0.31      0.20     0.20     0.00     0.00    52632   EventMachine::Deferrable#cancel_timeout 
+  0.30      0.19     0.19     0.00     0.00   108547   Array#shift 
+  0.30      9.83     0.19     0.00     9.64    25885   EventMachine::HttpConnection#start 
+  0.29      0.19     0.19     0.00     0.00   105264   Array#pop 
+  0.29     21.23     0.19     0.00    21.04    26747   EventMachine::HttpConnection#setup_request 
+  0.29     37.26     0.19     0.00    37.07    26911   EventMachine::PeriodicTimer#fire 
+  0.28      0.18     0.18     0.00     0.00   106988   Hash#has_key? 
+  0.28     10.24     0.18     0.00    10.06    51229   EventMachine::Deferrable#succeed 
+  0.28      6.43     0.18     0.00     6.25    26747   EventMachine::HttpConnection#activate_connection 
+  0.27     10.19     0.18     0.00    10.02    25885   EventMachine::HttpConnection#connection_completed 
+  0.27      0.17     0.17     0.00     0.00   106988   BasicObject#== 
+  0.27      0.42     0.17     0.00     0.25    25885   Addressable::URI#userinfo 
+  0.27      0.39     0.17     0.00     0.22    25344   <Class::EventMachine::HttpDecoders::Base>#encoding_names 
+  0.26      0.25     0.17     0.00     0.08    50688   EventMachine::HttpResponseHeader#status 
+  0.25      0.16     0.16     0.00     0.00    53494   String#strip 
+  0.25      1.20     0.16     0.00     1.04    50688   EventMachine::HttpResponseHeader#location 
+  0.25      0.16     0.16     0.00     0.00    78838   String#to_i 
+  0.25      0.16     0.16     0.00     0.00    53659   Hash#delete 
+  0.24      2.59     0.15     0.00     2.44    51770   Enumerable#inject 
+  0.24      0.24     0.15     0.00     0.09    53577   Time#initialize 
+  0.23      0.15     0.15     0.00     0.00    80241   Array#unshift 
+  0.23      0.46     0.15     0.00     0.31    50688   Array#include? 
+  0.22      0.38     0.14     0.00     0.24    53494   Kernel#!~ 
+  0.21      0.39     0.14     0.00     0.26    25885   EventMachine::HttpEncoding#encode_host 
+  0.21      0.32     0.13     0.00     0.19    26747   EventMachine::HttpConnection#unbind 
+  0.21      0.13     0.13     0.00     0.00    52782   NilClass#to_s 
+  0.20      0.13     0.13     0.00     0.00    77435   Kernel#Integer 
+  0.20      0.13     0.13     0.00     0.00    52632   <Class::EventMachine::HttpRequest>#middleware 
+  0.19      0.12     0.12     0.00     0.00    25344   EventMachine::HttpClient#on_decoded_body_data 
+  0.19      2.39     0.12     0.00     2.27    25344   EventMachine::HttpClient#on_request_complete 
+  0.19      0.12     0.12     0.00     0.00    27570   <Module::EventMachine>#add_oneshot_timer 
+  0.19      0.38     0.12     0.00     0.26    25885   HttpClientOptions#ssl? 
+  0.19      0.68     0.12     0.00     0.56    26747   <Class::EventMachine::Connection>#new 
+  0.18      0.21     0.12     0.00     0.09    26747   EventMachine::HttpStubConnection#parent= 
+  0.18      0.12     0.12     0.00     0.00    53577   <Class::Time>#allocate 
+  0.18      0.24     0.11     0.00     0.13    26747   EventMachine::Connection#comm_inactivity_timeout= 
+  0.18      0.26     0.11     0.00     0.15    26747   EventMachine::Connection#pending_connect_timeout= 
+  0.17      0.11     0.11     0.00     0.00    53494   Module#name 
+  0.17     13.68     0.11     0.00    13.58    25367   EventMachine::HttpConnection#receive_data 
+  0.16      0.15     0.10     0.00     0.05    25885   EventMachine::HttpClient#normalize_body 
+  0.16      0.23     0.10     0.00     0.12    25344   EventMachine::HttpClient#on_body_data 
+  0.16      0.66     0.10     0.00     0.55    25344   EventMachine::HttpResponseHeader#chunked_encoding? 
+  0.16      0.97     0.10     0.00     0.87    27569   EventMachine::PeriodicTimer#schedule 
+  0.16     13.78     0.10     0.00    13.68    25367   EventMachine::HttpStubConnection#receive_data 
+  0.16      0.10     0.10     0.00     0.00    25885   <Module::EventMachine>#get_peername 
+  0.16      0.10     0.10     0.00     0.00    26747   Hash#initialize 
+  0.15      0.10     0.10     0.00     0.00    26747   <Module::EventMachine>#set_pending_connect_timeout 
+  0.15      0.48     0.10     0.00     0.38    26747   Time#- 
+  0.15      0.10     0.10     0.00     0.00    53494   Hash#fetch 
+  0.15     10.29     0.10     0.00    10.19    25885   EventMachine::HttpStubConnection#connection_completed 
+  0.15      0.10     0.10     0.00     0.00    53661   Fixnum#to_f 
+  0.15      0.10     0.10     0.00     0.00    26747   EventMachine::HttpConnection#initialize 
+  0.15      0.53     0.10     0.00     0.43    25885   EventMachine::HttpConnection#send_data 
+  0.15     21.32     0.09     0.00    21.23    26747   EventMachine::HTTPMethods#get 
+  0.15      0.41     0.09     0.00     0.32    26747   EventMachine::HttpStubConnection#unbind 
+  0.14     37.35     0.09     0.00    37.26    26911   Method#call 
+  0.14      0.09     0.09     0.00     0.00    53577   Fixnum#+ 
+  0.14      0.09     0.09     0.00     0.00    53494   Kernel#class 
+  0.14      0.26     0.09     0.00     0.17    26830   Rational#/ 
+  0.14      0.14     0.09     0.00     0.05    26747   EventMachine::HttpClient#finished? 
+  0.14      0.09     0.09     0.00     0.00    27570   Float#* 
+  0.14      2.56     0.09     0.00     2.47    25885   EventMachine::HttpEncoding#encode_headers 
+  0.14      0.29     0.09     0.00     0.21    26747   EventMachine::HttpClient::CookieJar#initialize 
+  0.14      0.21     0.09     0.00     0.12    25885   EventMachine::HttpEncoding#munge_header_keys 
+  0.14      0.09     0.09     0.00     0.00    26747   EventMachine::HttpConnection#conn= 
+  0.13      0.19     0.09     0.00     0.10    25885   EventMachine::Connection#get_peername 
+  0.13      0.69     0.08     0.00     0.61    25344   EventMachine::HttpResponseHeader#cookie 
+  0.13      0.08     0.08     0.00     0.00    26747   HTTP::Parser#initialize 
+  0.13      0.21     0.08     0.00     0.13    25344   EventMachine::HttpClient#continue? 
+  0.13      0.13     0.08     0.00     0.04    25885   Addressable::URI#user 
+  0.13      0.13     0.08     0.00     0.05    25885   Addressable::URI#query 
+  0.13      1.19     0.08     0.00     1.11    25344   <Module::EventMachine::HttpDecoders>#decoder_for_encoding 
+  0.13      0.12     0.08     0.00     0.04    25885   Addressable::URI#password 
+  0.13      0.69     0.08     0.00     0.61    25344   EventMachine::HttpClient#redirect? 
+  0.13      0.17     0.08     0.00     0.09    26747   Class#allocate 
+  0.12      0.08     0.08     0.00     0.00    26747   <Module::EventMachine>#set_comm_inactivity_timeout 
+  0.12      0.07     0.07     0.00     0.00    25885   <Module::EventMachine>#send_data 
+  0.11      0.34     0.07     0.00     0.26    26830   Numeric#quo 
+  0.11      0.07     0.07     0.00     0.00    25885   HttpClientOptions#http_proxy? 
+  0.11      0.12     0.07     0.00     0.05    26830   Rational#to_f 
+  0.11      0.07     0.07     0.00     0.00    25344   Regexp#match 
+  0.11      0.07     0.07     0.00     0.00    26747   CookieJar::Jar#initialize 
+  0.11      0.07     0.07     0.00     0.00    25344   <Class::EventMachine::HttpDecoders::GZip>#encoding_names 
+  0.10      0.07     0.07     0.00     0.00    25344   HttpClientOptions#no_body? 
+  0.10      0.06     0.06     0.00     0.00    26747   EventMachine::Connection#original_method 
+  0.10      0.06     0.06     0.00     0.00    26747   Module#instance_method 
+  0.10      0.06     0.06     0.00     0.00    26747   <Class::HTTP::Parser>#allocate 
+  0.09      0.06     0.06     0.00     0.00    27321   Symbol#to_s 
+  0.08      0.05     0.05     0.00     0.00    25735   Module#to_s 
+  0.08      0.05     0.05     0.00     0.00    26830   Fixnum#fdiv 
+  0.08      0.05     0.05     0.00     0.00    26830   Float#/ 
+  0.08      0.05     0.05     0.00     0.00    26747   Kernel#block_given? 
+  0.08      0.05     0.05     0.00     0.00    25344   Regexp#=== 
+  0.08      0.05     0.05     0.00     0.00    26747   UnboundMethod#arity 
+  0.08      0.05     0.05     0.00     0.00    27570   Float#to_i 
+  0.08      0.05     0.05     0.00     0.00    25344   Module#method_defined? 
+  0.08      0.05     0.05     0.00     0.00    26747   HTTP::Parser#header_value_type= 
+  0.07      0.05     0.05     0.00     0.00    27403   Float#to_f 
+  0.07      0.05     0.05     0.00     0.00    26747   Fixnum#-@ 
+  0.07      0.05     0.05     0.00     0.00    25344   String#downcase 
+  0.07      0.05     0.05     0.00     0.00    26747   Array#clear 
+  0.07      0.05     0.05     0.00     0.00    26747   EventMachine::Connection#initialize 
+  0.07      0.05     0.05     0.00     0.00    26747   Module#>= 
+  0.07      0.05     0.05     0.00     0.00    25887   Array#empty? 
+  0.07      0.05     0.05     0.00     0.00    25344   HTTP::Parser#http_version 
+  0.07      0.05     0.05     0.00     0.00    26747   Fixnum#- 
+  0.07      0.05     0.05     0.00     0.00    26747   HTTP::Parser#on_headers_complete= 
+  0.07      0.05     0.05     0.00     0.00    26747   Method#arity 
+  0.07      0.05     0.05     0.00     0.00    26747   HTTP::Parser#on_message_complete= 
+  0.07      0.05     0.05     0.00     0.00    26747   HTTP::Parser#on_body= 
+  0.07      0.05     0.05     0.00     0.00    26747   EventMachine::Connection#post_init 
+  0.07      0.05     0.05     0.00     0.00    26747   <Class::Hash>#allocate 
+  0.07      0.05     0.05     0.00     0.00    26747   Array#push 
+  0.07      0.04     0.04     0.00     0.00    25343   Kernel#nil? 
+  0.07      0.04     0.04     0.00     0.00    25885   String#bytesize 
+  0.07      0.04     0.04     0.00     0.00    25344   Array#last 
+  0.06      0.04     0.04     0.00     0.00    25344   HTTP::Parser#status_code 
+  0.02      0.05     0.01     0.00     0.04        1   <Module::EventMachine>#release_machine 
+  0.01      0.08     0.01     0.00     0.07     1403   EventMachine::HttpClient#on_error 
+  0.01      0.01     0.01     0.00     0.00     2970   IO#write 
+  0.01      0.03     0.01     0.00     0.02      658   EventMachine::PeriodicTimer#initialize 
+  0.01      0.01     0.01     0.00     0.01     1485   IO#puts 
+  0.01      0.07     0.00     0.00     0.06     1403   EventMachine::Deferrable#fail 
+  0.01      0.04     0.00     0.00     0.03      658   <Module::EventMachine>#add_periodic_timer 
+  0.01      0.04     0.00     0.00     0.04      656   Engine#initialize 
+  0.01      0.01     0.00     0.00     0.01     1485   Kernel#puts 
+  0.00      0.01     0.00     0.00     0.00       82   JSON::Ext::Generator::GeneratorMethods::Hash#to_json 
+  0.00      0.00     0.00     0.00     0.00      654   String#encode 
+  0.00      0.05     0.00     0.00     0.04       82   Integer#times 
+  0.00      0.00     0.00     0.00     0.00      658   Kernel#method 
+  0.00      0.00     0.00     0.00     0.00      164   Float#to_s 
+  0.00      0.00     0.00     0.00     0.00      164   Hash#keys 
+  0.00      0.00     0.00     0.00     0.00       83   Time#to_f 
+  0.00      0.00     0.00     0.00     0.00       82   Float#>= 
+  0.00     64.15     0.00     0.00    64.15        1   Global#[No method] 
+  0.00      0.00     0.00     0.00     0.00        1   <Module::EventMachine>#initialize_event_machine 
+  0.00     64.15     0.00     0.00    64.15        1   <Module::EventMachine>#run 
+  0.00      0.00     0.00     0.00     0.00        1   <Module::EventMachine>#stop 
+  0.00      0.00     0.00     0.00     0.00        2   <Module::EventMachine>#reactor_running? 
+  0.00      0.00     0.00     0.00     0.00        1   <Module::Process>#pid 
+  0.00      0.00     0.00     0.00     0.00        1   <Module::EventMachine>#stop_event_loop 
+  0.00      0.00     0.00     0.00     0.00        1   <Class::Thread>#current 
+  0.00      0.00     0.00     0.00     0.00        1   NilClass#nil? 
+
+* indicates recursively called methods
